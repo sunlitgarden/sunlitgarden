@@ -1,4 +1,4 @@
-### Welcome to Taylor M.'s Github profile 🎉
+### Welcome to my Github profile 🎉
 
 This is [my website](https://sunlitgarden.github.io) (made with Github pages). I'm using it as a reading list until I have certifications and completed projects to display. 
 
